@@ -1,2 +1,6 @@
 # Cookie_Clicker
-Using selenium to web scrape and play the cookie clicker game for you
+Using Selenium to web scrape and play the cookie clicker game for you. First, a notable mention needs to be made about how amazing Selenium is. BeautifulSoup is still a great package, but after using Selenium it is clear BeautifulSoup has its limitations in terms of automation. In other terms, Selenium played cookie clicker for me and all I had to do was click a button (not including the hours of writing code haha). 
+
+While it is silly to think I spent my entire Sunday struggling with code to click cookies, I am very happy with the end product and I have learned a lot through the struggle. I am currently getting 125 cookies per second after 5 minutes of python running the code. I played around with the alogrithm a bit and settled with every 10 seconds to buy new upgrades and products and buying products in the order from most valuable available to least valuable until you don't have enough cookies to buy anything. There can still be improvements made to this code to boost the algorithm and get even more cookies per second, but I am happy with this for now. 
+
+![cookie](https://github.com/andreapeterson/Cookie_Clicker/assets/134665743/46ed5f62-1d3b-4ed9-aae3-71224730a061)
